@@ -1,0 +1,16 @@
+language: ruby
+
+rvm:
+  - 1.9.3
+
+install:
+  - gem install csvlint
+
+before_script:
+  - cat Gemfile.lock
+
+script:
+  - bundle exec csvlint *.csv
+
+notifications:
+  - email: false

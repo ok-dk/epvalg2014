@@ -4,7 +4,7 @@ epvalg2014
 Fra valgdataworkshop om Europa-parlamentsvalget 2014 og patentdomstolsafstemningen.
 
 Filnavn | Beskrivelse  | CSV-validitet
---------|--------------|---------------
+--------|--------------|:-------------:
 `epvalg.csv`           | Stemmer på partier | [![csvlint of epvalg.csv][epvalg-badge-img]][epvalg-badge-url]
 `patentdomstol.csv`    | Ja/Nej-stemmer til patentdomstol | [![csvlint of patentdomstol.csv][patent-badge-img]][patent-badge-url]
 `epvalgPersonlige.tsv` | Stemmer på politikere |

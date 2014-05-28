@@ -6,11 +6,8 @@ rvm:
 install:
   - gem install csvlint
 
-# before_script:
-#   - cat Gemfile.lock
-
 script:
-  - bundle exec csvlint *.csv
+  - csvlint *.csv
 
 notifications:
   - email: false

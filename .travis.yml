@@ -7,7 +7,7 @@ install:
   - gem install csvlint
 
 script:
-  - csvlint *.csv
+  - "csvlint epvalg.csv && csvlint patentdomstol.csv"
 
 notifications:
   - email: false

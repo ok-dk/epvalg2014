@@ -1,4 +1,4 @@
-epvalg2014 [![CSV-status badge][travis-badge-img]][travis-badge-url]
+epvalg2014 [![CSV-status badge][travis-badge-img]][travis-badge-url] [![MIT-license badge][license-badge-img]][license-badge-url]
 ==========
 
 Fra valgdataworkshop om Europa-parlamentsvalget 2014 og patentdomstolsafstemningen.
@@ -24,6 +24,8 @@ Filnavn | Beskrivelse
 
 [travis-badge-img]: https://travis-ci.org/ok-dk/epvalg2014.svg
 [travis-badge-url]: https://travis-ci.org/ok-dk/epvalg2014
+[license-badge-img]: http://img.shields.io/badge/License-MIT-blue.svg
+[license-badge-url]: https://github.com/ok-dk/epvalg2014/blob/master/LICENSE.md
 [epvalg]: https://github.com/ok-dk/epvalg2014/blob/master/epvalg.csv
 [patent]: https://github.com/ok-dk/epvalg2014/blob/master/patentdomstol.csv
 [epvalg-badge-img]: http://csvlint.io/validation/53863574637376031a430400.svg

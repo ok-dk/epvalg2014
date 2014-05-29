@@ -1,4 +1,4 @@
-epvalg2014 [![CSV-status badge][travis-badge-img]][travis-badge-url] [![MIT-license badge][license-badge-img]][license-badge-url]
+epvalg2014 [![MIT-license badge][license-badge-img]][license-badge-url]
 ==========
 
 Fra valgdataworkshop om Europa-parlamentsvalget 2014 og patentdomstolsafstemningen.

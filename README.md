@@ -3,7 +3,8 @@ epvalg2014 [![CSV-status badge][travis-badge-img]][travis-badge-url]
 
 Fra valgdataworkshop om Europa-parlamentsvalget 2014 og patentdomstolsafstemningen.
 
-## CSV- og TSV-filer
+CSV- og TSV-Filer
+-----------------
 
 Filnavn | Beskrivelse | CSV-validitet
 ------------------------------|----------------------------------|:---------------------------------------------------------------------:
@@ -11,7 +12,8 @@ Filnavn | Beskrivelse | CSV-validitet
 [`patentdomstol.csv`][patent] | Ja/Nej-stemmer til patentdomstol | [![csvlint of patentdomstol.csv][patent-badge-img]][patent-badge-url]
 `epvalgPersonlige.tsv`        | Stemmer på politikere            |
 
-## XLSX-filer
+XLSX-Filer
+----------
 
 Filnavn | Beskrivelse
 ------------------------------------------|-------------------------------
